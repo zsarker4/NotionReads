@@ -1,27 +1,51 @@
-# React + TypeScript + Vite
+# NotionReads
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to NotionReads! This project aims to create a simplified and improved version of Goodreads, utilizing React, TypeScript, and Vite for both web and mobile platforms. This project seeks to reimagine the book browsing and management experience, drawing inspiration from the intuitive and minimalist design of Notion.
 
-Currently, two official plugins are available:
+**Note: This project is currently in progress and under active development.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Why Notion as UI Inspiration?
 
-## Expanding the ESLint configuration
+The UI design of Notion offers a clean, user-friendly, and less cluttered approach to information organization. Taking cues from Notion's simplicity, my aim is to provide users with an uncluttered, visually pleasing, and intuitive interface for managing their book collections, discovering new reads, and interacting with the platform seamlessly.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+**NotionReads** adopts this design philosophy to streamline the browsing, saving, and exploring of books, ensuring a more user-centric and less overwhelming experience compared to traditional book management platforms.
 
-- Configure the top-level `parserOptions` property like this:
+## Why NotionReads?
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+The name **NotionReads** is a nod to the project's design inspiration from Notion and its vision to revolutionize the way readers interact with their book collections. By blending the simplicity of Notion's interface with the functionalities of a book management system, **NotionReads** aims to offer a more intuitive and elegant solution for book enthusiasts.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Table of Contents
+
+- [Features](#features)
+  - [Search Feature](#search-feature)
+  - [Discover](#discover)
+  - [Saved](#saved)
+  - [List](#list)
+- [Display](#display)
+  - [Screenshots](#screenshots)
+- [Build](#build)
+
+## Features
+
+### Search Feature
+NotionReads offers a robust search functionality allowing users to find any author, book, genre, or ISBN, simplifying the book discovery process.
+
+### Discover
+Discover new books with ease through tailored recommendations and personalized suggestions, making book exploration delightful.
+
+### Saved
+Users can conveniently access and manage their saved books, ensuring easy tracking of their reading lists.
+
+### List
+Explore curated lists of books categorized by themes such as "Best Books Ever," "Best Young Adult," and more, providing users with diverse reading options.
+
+## Display
+
+### Screenshots
+![Screenshot 1](g2.jpg)
+![Screenshot 2](g1.jpg)
+
+## Build
+
+Stay tuned for detailed build instructions and deployment guidelines as the project progresses.
+
