@@ -1,5 +1,6 @@
 # NotionReads
 
+![Screenshot 1](gr1.jpg)
 Welcome to NotionReads! This project aims to create a simplified and improved version of Goodreads, utilizing React, TypeScript, and Vite for both web and mobile platforms. This project seeks to reimagine the book browsing and management experience, drawing inspiration from the intuitive and minimalist design of Notion.
 
 **Note: This project is currently in progress and under active development.**
@@ -42,8 +43,8 @@ Explore curated lists of books categorized by themes such as "Best Books Ever," 
 ## Display
 
 ### Screenshots
-![Screenshot 1](g2.jpg)
-![Screenshot 2](g1.jpg)
+![Screenshot 1](gr1.jpg)
+![Screenshot 2](gr2.jpg)
 
 ## Build
 
